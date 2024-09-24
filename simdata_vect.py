@@ -1,4 +1,5 @@
 # sudo vim -o file1 file2 [open 2 files] 
+# BLAH
 
 # NOTE 9-24: I fixed the calculation of true DSR and added a true DSR for discovered nests only.
 # This second value shows there's some bias towards discovering nests that end up hatching.
